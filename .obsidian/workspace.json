@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "frontend/jetpack/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Untitled"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "frontend/jetpack/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "frontend/jetpack/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "frontend/jetpack/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -201,6 +201,23 @@
   },
   "active": "3f2523b50e1ddd07",
   "lastOpenFiles": [
-    "Welcome.md"
+    "backend/Redis/Untitled.md",
+    "frontend/jetpack/Untitled.md",
+    "backend/Postgresql/Untitled.md",
+    "backend/Mobile Handler/Untitled.md",
+    "backend/DB Handler/Untitled.md",
+    "backend/Gerenation driver/Generation driver.md",
+    "backend/Quotation publisher/Quotation publisher.md",
+    "full report.md",
+    "backend/DB Handler",
+    "backend/Mobile Handler",
+    "backend/Gerenation driver",
+    "backend/Quotation publisher",
+    "backend/Postgresql",
+    "Untitled",
+    "frontend/jetpack",
+    "backend/Redis",
+    "frontend/flutter",
+    "Untitled 1"
   ]
 }
